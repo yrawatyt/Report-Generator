@@ -1,6 +1,6 @@
-package com.yourcompany.reportgenerator.config;
+package com.example.reportgenerator.config;
 
-import com.yourcompany.reportgenerator.service.ReportGenerationService;
+import com.example.reportgenerator.service.ReportGenerationService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

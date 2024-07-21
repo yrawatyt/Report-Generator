@@ -1,6 +1,6 @@
-package com.yourcompany.reportgenerator.controller;
+package com.example.reportgenerator.controller;
 
-import com.yourcompany.reportgenerator.service.ReportGenerationService;
+import com.example.reportgenerator.service.ReportGenerationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
